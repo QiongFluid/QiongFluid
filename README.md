@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @QiongFluid
+- 👋 Hi, I’m Qiong@Fluid
 - 👀 I’m interested in fluid mechanics and data science
 - 🌱 I’m currently learning dynamics systems and machine learning
 - 💞️ I’m looking to collaborate on applying machine learning to various engineering applications
-- 📫 How to reach me? Email: liuqiong.upm@gmail.com
+- 📫 How to reach me? Email: qliu@nmsu.edu
 
 <!---
 QiongFluid/QiongFluid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
